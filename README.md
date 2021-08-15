@@ -9,5 +9,7 @@ The HTML was not organized very well.
 I added alt attributes to the images to make them more accessable. 
 I gave the search engine optimization link a class so it would respond to the CSS. 
 I gave the HTML semantic elements making it easier to read the code and more organized.
+## Visit the website
+file:///Users/jareddodson/Homework-1/index.html
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
